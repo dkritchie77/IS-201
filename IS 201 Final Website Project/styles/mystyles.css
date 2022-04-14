@@ -1,0 +1,40 @@
+ol {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: rgba(245, 245, 245, 0.808);
+    color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    height: 225px;
+}
+
+.subheading {
+    color: black;
+    font-style: italic;
+    background-color: rgba(245, 245, 245, 0.808);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.resumeheading {
+    font-size: 18pt;
+}
+
+.underline {
+    text-decoration: underline;
+}
